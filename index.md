@@ -1,9 +1,9 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿Smart Mirror
+What is a smart mirror? A smart mirror is a two way mirror that can function as both a mirror and a screen that can display information as well.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Stanley Shen | Archbishop Mitty High School | Computer Programming | Incoming Junior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
