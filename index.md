@@ -1,5 +1,5 @@
 ﻿Smart Mirror
-What is a smart mirror? A smart mirror is a two way mirror that can function as both a mirror and a screen that can display information as well.
+Do you want a way to enliven your average mirror to where it has the same functionality as a smartphone? The smart mirror is a two way mirror that can display information behind a regular mirror, such as the time, weather, and news.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
