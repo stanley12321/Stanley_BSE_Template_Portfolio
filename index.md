@@ -13,6 +13,8 @@ The smart mirror is mainly composed of a raspberry pi, monitor, and mirror. My f
 
 [![Final Milestone](https://youtu.be/PcOPC8zBhLE){:target="_blank" rel="noopener"}
 
+https://youtu.be/PcOPC8zBhLE
+
 # Second Milestone
 
 The next milestone I set for myself was to start building the frame of the mirror. The material I chose for the frame was wood. This is because I thought that it would look nicer and be more durable than some other materials. I used a woodcutting machine that I had at our house to cut the different pieces of wood. I made 45 degree cuts on the wood in order to make the front of the frame of the mirror. I was able to cut the wood with no problem, and I used wood glue to glue the piece of wood together.
