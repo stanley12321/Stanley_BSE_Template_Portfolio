@@ -1,4 +1,5 @@
-﻿Smart Mirror
+﻿# Smart Mirror
+
 Do you want a way to enliven your average mirror to where it has the same functionality as a smartphone? The smart mirror is a two way mirror that can display information behind a regular mirror, such as the time, weather, and news.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
