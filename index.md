@@ -28,4 +28,4 @@ My third and final milestone was attaching the monitor and raspberry pi to the b
 
 
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/PcOPC8zBhLE "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](https://www.aesdes.org/wp-content/uploads/2017/03/mirror-installed-1024x731.jpg)](https://youtu.be/PcOPC8zBhLE "First Milestone"){:target="_blank" rel="noopener"}
