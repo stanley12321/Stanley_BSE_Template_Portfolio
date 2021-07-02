@@ -5,7 +5,6 @@ Do you want a way to enliven your average mirror to where it has the same functi
 |:--:|:--:|:--:|:--:|
 | Stanley Shen | Archbishop Mitty High School | Computer Programming | Incoming Junior
 
-![Headstone Video](https://youtu.be/Ghx7TcGUmhs)
   
 # Final Milestone
 
