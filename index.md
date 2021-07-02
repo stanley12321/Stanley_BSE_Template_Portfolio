@@ -24,10 +24,19 @@ The next milestone I set for myself was to start building the frame of the mirro
 [![Second Milestone](https://www.aesdes.org/wp-content/uploads/2017/03/mirror-installed-1024x731.jpg)](https://youtu.be/PcOPC8zBhLE "Second Milestone"){:target="_blank" rel="noopener"}
 
 
-
+# Third Milestone
 
 My third and final milestone was attaching the monitor and raspberry pi to the back of the mirror. Since I had to attach the monitor and raspberry pi to the back of the mirror, I had to consider the thickness of both of them and make the thickness of the mirror based on that. Luckily for me, the monitor and raspberry pi were both the same thickness, so I used a slab of wood to keep both the monitor and raspberry pi in place. An issue I encountered while attaching the monitor and raspberry pi to the back of the mirror was that the wires were too long and too messy. To resolve that, I got rid of the longer cable and added several shorter and more convenient cables. After finishing that, I wanted to add a modification to the smart mirror and add a voice control module. Since I had a usb microphone plugged into the raspberry pi and a speaker in the monitor, I hoped to have a voice control module where I could talk to the mirror and it would respond. After doing some work following the google assistant tutorial, I was able to talk to the mirror, but I would have to hold down a key on my keyboard in order to do that. I’m hoping that in the future, I would be able to incorporate it into the smart mirror to the point where I don't need a keyboard for the voice control to work.
 
 
 [![Third Milestone](https://www.twowaymirrors.com/wp-content/uploads/2018/08/glass-smart-mirror.jpg)](https://www.youtube.com/watch?v=HBDte_WeAsM "Third Milestone"){:target="_blank" rel="noopener"}
 
+
+# Materials
+
+1. raspberry pi
+2. monitor
+3. two way mirror
+4. frame for mirror
+5. HDMI cable
+6. usb keyboard and mouse
